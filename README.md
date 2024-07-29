@@ -1,5 +1,3 @@
-# [Rowland Ogwara](https://kulgan.ng/)
-
 ## Quick Bio
 
  - 👶 Born in [Delta State](https://en.wikipedia.org/wiki/Delta_State), Nigeria.
@@ -16,6 +14,11 @@
  - [**psqlgml**](https://github.com/kulgan/psqlgml) Data commons graph data visualization and validation.
  - [**flaskdoc**](https://github.com/kulgan/flaskdoc) Thin flask wrapper with openapi spec generation and viewing.
  - [**psqlgraph**](https://github.com/NCI-GDC/psqlgraph) Graph data on relational database using sqlalchemy 🦾
+ - [**pytest-psqlgraph**](https://github.com/kulgan/pytest-psqlgraph) pytest plugin for psqlgraph
+
+## Open Source Projects of Interest
+ - [Assertj](https://github.com/assertj/assertj)
+ - [APIFlask](https://github.com/apiflask/apiflask)
 
  ## 🏢 Places I have worked at
  - [Seamfix](https://seamfix.com): Software Engineer, Technical Lead, Head Research and Development
