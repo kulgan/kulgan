@@ -4,7 +4,7 @@
  - 🏫 Raised in [Port Harcourt](https://en.wikipedia.org/wiki/Port_Harcourt), Schooled in [Nsukka](https://en.wikipedia.org/wiki/University_of_Nigeria).
  - 👷‍♂️ Worked in Lagos, now based in Chicago, Illinois.
  - 👷 For work: Software Engineer at [CTDS UChicago](https://ctds.uchicago.edu/).
- - 💻 Off work: hacker, open source contributor, consultant, contractor.
+ - 💻 Off work: hacker, open source contributor, trying out new technologies, consulting etc.
 
  ## 🌐 Tech interests
   - **Languages**: Python, Java
